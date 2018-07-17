@@ -1,0 +1,12 @@
+h1,
+h4 {
+    color: orange;
+    font-family: sans-serif;
+    font: bold;
+}
+
+#body1 img {
+    position: absolute;
+    top: 400px;
+    right: 1px;
+}
